@@ -3,6 +3,7 @@
     justify-content: center;
 }
 
-!.filters {
-    display: inline-flex;
+a {
+    display:inline-block;
+    
 }
