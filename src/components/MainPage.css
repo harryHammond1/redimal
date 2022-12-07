@@ -1,0 +1,8 @@
+.mainpage {
+    display:flex;
+    justify-content: center;
+}
+
+!.filters {
+    display: inline-flex;
+}
