@@ -7,3 +7,8 @@ a {
     display:inline-block;
     
 }
+
+.filters {
+    display:flex;
+    flex-direction: row;
+}
