@@ -1,0 +1,15 @@
+.sidebar {
+    display:flex;
+    justify-content: right;
+    background-color: white;
+    width: 200px;
+    float:right;
+    
+}
+
+.sidebar a {
+    padding: 20px;
+
+
+    
+}

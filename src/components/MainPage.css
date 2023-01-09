@@ -1,0 +1,14 @@
+.mainpage {
+    display:flex;
+    justify-content: center;
+}
+
+a {
+    display:inline-block;
+    
+}
+
+.filters {
+    display:flex;
+    flex-direction: row;
+}

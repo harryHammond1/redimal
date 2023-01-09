@@ -1,0 +1,21 @@
+.article  {
+    background-color: white;
+    width: 1300px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.postTitle {
+    font-size: 1.5em;
+}
+
+.thumbnail {
+    border-radius: 10px;
+}
+
+.innerContainer {
+    display:flex;
+    flex-direction: row;
+}
