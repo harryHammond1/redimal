@@ -1,15 +1,13 @@
 .sidebar {
-    display:flex;
-    justify-content: right;
-    background-color: white;
-    width: 200px;
-    float:right;
-    
+  display: flex;
+  justify-content: right;
+  background-color: white;
+  width: 13%;
+  float: right;
+  line-height: 4;
 }
 
 .sidebar a {
-    padding: 20px;
-
-
-    
+  padding: 20px;
+  padding-top: 2em;
 }
