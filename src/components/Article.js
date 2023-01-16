@@ -27,7 +27,6 @@ const Article = () => {
         <p className="postAuthor">{post.data.author}</p>
         <p className="innerContainer">{post.data.num_comments} comments</p>
         <p className="innerContainer">{post.data.score} likes</p>
-        sdfsdf
       </div>
     );
   });
