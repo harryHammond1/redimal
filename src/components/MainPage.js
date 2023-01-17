@@ -13,7 +13,9 @@ const MainPage = () => {
         <ul>
           {filters.map((filter) => (
             <li>
-              <a href={filter.to}>{filter.text}</a>
+              <a style={{ color: "salmon" }} href={filter.to}>
+                {filter.text}
+              </a>
             </li>
           ))}
         </ul>

@@ -2,5 +2,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: white;
+  background: linear-gradient(
+    90deg,
+    rgba(38, 106, 116, 1) 19%,
+    rgba(57, 62, 77, 1) 100%
+  );
 }

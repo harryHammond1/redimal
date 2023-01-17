@@ -5,11 +5,16 @@
 .filters {
   display: flex;
   justify-content: center;
+  color: salmon !important;
 }
 
 .filters li {
   flex: 1;
   display: inline-flex;
-  padding: 2em;
+  padding: 1.5em;
   margin: 0 auto;
+  color: salmon !important;
+  position: relative;
+  right: 5.8em;
+  font-size: 1.5em;
 }
