@@ -29,6 +29,7 @@
 
 .thumbnail {
   border-radius: 10px;
+  width: 20em;
 }
 
 .innerContainer {
